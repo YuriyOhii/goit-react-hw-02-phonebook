@@ -7,6 +7,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 100px;
+
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+  color: #212121;
 }
 
 code {
